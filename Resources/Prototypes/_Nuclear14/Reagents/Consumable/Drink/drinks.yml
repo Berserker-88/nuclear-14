@@ -75,7 +75,7 @@
         key: SeeingRainbows
         component: SeeingRainbows
         type: Add
-        time: 5
+        time: 3
 
 - type: reagent
   id: TeaHoneyMesquite
