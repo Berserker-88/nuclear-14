@@ -259,3 +259,15 @@
   - type: StaticPrice
     price: 50
 
+- type: entity
+  name: Deathclaw Gauntlet
+  parent: ArmBlade
+  id: N14DeathclawGauntlet
+  description: A tribal sword, made from teeth and claws from the hunts and bound to a piece of wood.
+  components:
+  - type: Sprite
+    sprite: _Nuclear14/Objects/Weapons/Melee/DeathclawGuantlet.rsi
+    state: icon
+  - type: Item
+    size: Normal
+    sprite: _Nuclear14/Objects/Weapons/Melee/DeathclawGuantlet.rsi
