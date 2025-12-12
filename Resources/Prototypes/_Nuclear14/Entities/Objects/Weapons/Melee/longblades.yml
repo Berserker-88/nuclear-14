@@ -261,7 +261,7 @@
 
 - type: entity
   name: Deathclaw Gauntlet
-  parent: ArmBlade
+  parent: N14Machete
   id: N14DeathclawGauntlet
   description: A tribal sword, made from teeth and claws from the hunts and bound to a piece of wood.
   components:
@@ -271,3 +271,22 @@
   - type: Item
     size: Normal
     sprite: _Nuclear14/Objects/Weapons/Melee/DeathclawGuantlet.rsi
+  - type: Sharp
+  - type: Execution
+    doAfterDuration: 4.0
+    state: icon
+  - type: MeleeWeapon
+    attackRate: 1
+    damage:
+      types:
+        Slash: 15
+        Piercing: 15
+  - type: Tool
+    qualities:
+      - Prying
+  - type: Wieldable
+  - type: IncreaseDamageOnWield
+    damage:
+      types:
+        Piercing: 5
+        Slash: 5
