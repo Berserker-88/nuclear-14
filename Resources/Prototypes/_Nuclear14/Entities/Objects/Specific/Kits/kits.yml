@@ -2028,9 +2028,12 @@
       - id: N14MaterialCircuitry1
         amount: 3
       - id: SheetSteel10
-      - id: ToolboxElectricalFilled
+      - id: trayScanner
       - id: N14WeaponLaserRevolver
       - id: N14PowerCellHigh
+      - id: CableHVStack
+      - id: CableMVStack
+      - id: CableApcStack
 
 - type: entity
   name: Builders kit
@@ -2195,10 +2198,10 @@
   - type: SpawnItemsOnUse
     items:
       - id: N14BaseAxe
-        amount: 2
-      - id: MaterialWoodPlank10
-        amount: 2
+      - id: MaterialWoodPlank
       - id: N14ClothingUniformJumpsuitPreWarLumberjack
+      - id: N14CurrencyCap10
+        amount: 2
 
 - type: entity
   name: junkies kit
@@ -2212,10 +2215,11 @@
     size: Huge
   - type: SpawnItemsOnUse
     items:
-      - id: N14BrassKnife
+      - id: N14Shiv
       - id: N14Jet
         amount: 2
       - id: N14JunkAbraxoCleaner     
+      - id: N14Psycho  
   
 - type: entity
   name: Miners kit
@@ -2232,6 +2236,8 @@
       - id: Pickaxe
       - id: ClothingHeadHatHardhatYellow
       - id: OreBag     
+      - id: N14CurrencyCap10
+        amount: 2
 
 - type: entity
   name: Goons kit
@@ -2247,7 +2253,8 @@
     items:
       - id: N14BaseBallBat
       - id: N14MagazinePistol10mm
-      - id: N14WeaponPistol10mm     
+      - id: N14WeaponPistol10mm  
+      - id: N14Psycho     
 
 - type: entity
   name: Hunters kit
@@ -2264,7 +2271,8 @@
       - id: N14WeaponSniperHunting
       - id: N14BrassKnife
       - id: N14Cartridge308Rifle
-        amount: 5
+        amount: 10
+      - id: ClothingBeltNCRBandolier
 
 - type: entity
   name: musicians kit
@@ -2313,9 +2321,10 @@
     size: Huge
   - type: SpawnItemsOnUse
     items:
-      - id: N14WeaponShotgunCaravan
-      - id: N14ShellShotgun20
-        amount: 4
+      - id: N14WeaponShotgunPipe
+      - id: N14ShellShotgun12
+        amount: 6
+      - id: ClothingBeltNCRBandolier
 
 - type: entity
   name: HairDressers kit
@@ -2346,7 +2355,7 @@
   - type: SpawnItemsOnUse
     items:
       - id: N14WastelandPolearm
-      - id: N14ClothingOuterReinforcedArmorKit
+      - id: N14ClothingOuterLightLeatherArmor
       - id: N14ClothingHeadTownGuardBrodieCover
 
 - type: entity
@@ -2432,7 +2441,8 @@
       - id: DrinkIceJug
       - id: DrinkCreamCartonXL
       - id: DrinkTonicWaterBottleFull
-
+      - id: DrinkCoffeeJug
+      - id: DrinkTeaJug
 
 #MARK: Vault Kits
 

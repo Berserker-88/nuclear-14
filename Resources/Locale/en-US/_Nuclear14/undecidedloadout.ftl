@@ -615,8 +615,8 @@ undecided-loadout-category-town-electrician-name = electricians Kit
 undecided-loadout-category-town-electrician-description =
     Most machines don't work anymore but those that do is likely
     because of you. Here are the tools to keep it this way.
-    Includes a electrical toolbox, circuits, 10 steel sheets and
-    laser revolver with spare cell
+    Includes a electrical wires, circuits, 10 steel sheets,
+    T-ray scanner, laser revolver with spare cell
 
 undecided-loadout-category-town-Builders-name = Builders Kit
 undecided-loadout-category-town-Builders-description =
@@ -658,28 +658,28 @@ undecided-loadout-category-town-Energy-enthusiast-description =
 undecided-loadout-category-town-carpenters-name = carpenters Kit
 undecided-loadout-category-town-carpenters-description =
     I'm a lumberjack and I'm ok.
-    Includes your axe, wood planks and your own outfit
+    Includes your axe, wood planks, your own outfit and 20 caps
 
 undecided-loadout-category-town-Junkie-name = Junkie Kit
 undecided-loadout-category-town-Junkie-description =
     Looking for the next fix. always looking.
-    Includes Jet, jet, abrax cleaner to make
-    jet and a knife to rob more jet.
+    Includes Jet, jet, abrax cleaner to make jet
+    and a shiv to rob more jet and some psycho which isnt jet.
 
 undecided-loadout-category-town-Miner-name = Miners Kit
 undecided-loadout-category-town-Miner-description =
     You strike the earth to find ores.
-    Includes a pickaxe, mining helmet and a ore bag
+    Includes a pickaxe, mining helmet, 20 caps and a ore bag
 
 undecided-loadout-category-town-Goon-name = Goons Kit
 undecided-loadout-category-town-Goon-description =
     hehe man ... i love hurting people
-    Includes a baseball bat, 10mm pistol and spare ammo
+    Includes a baseball bat, 10mm pistol and psycho
     
 undecided-loadout-category-town-Hunters-name = Hunters Kit
 undecided-loadout-category-town-Hunters-description =
     Its hunting season
-    Includes a hunting rifle, knife and 5 spare rounds
+    Includes a hunting rifle, knife, bandolier and 10 spare rounds
 
 undecided-loadout-category-town-Musician-name = Musicians Kit
 undecided-loadout-category-town-Musician-description =
@@ -693,12 +693,11 @@ undecided-loadout-category-town-local-description =
     Just someone who lives in this mad town.
     Includes a 9mm pistol and spare ammo with extra caps
 
-
 undecided-loadout-category-town-brahmin-herders-name = Brahmin herders Kit
 undecided-loadout-category-town-brahmin-herders-description =
     Your herd brahmin to places they can eat, sometimes mutants
     or raiders want them, you got something to stop them
-    Includes a caravan shotgun and 4 spare shells
+    Includes a pipe shotgun, 6 spare shells and a bandolier.
 
 undecided-loadout-category-town-hair-dresser-name = Hair Dressers kit
 undecided-loadout-category-town-hair-dresser-description =
@@ -711,7 +710,7 @@ undecided-loadout-category-town-militias-name = Town Militias kit
 undecided-loadout-category-town-militias-description =
     So what your not a guard. someone's got to
     protect our town. guess you'll have to do
-    Includes a polearm, town helmet and a reinforced armor kit
+    Includes a polearm, town helmet and light leather armor
 
 undecided-loadout-category-town-lawyers-name = lawyers kit
 undecided-loadout-category-town-lawyers-description =
@@ -725,12 +724,14 @@ undecided-loadout-category-town-Chefs-description =
     Includes Chefs outfit, beaker box, maize
     carrots, tatos, razorgrain, salt, enzyme
     hand labeler, sugar and a big knife.
+    Open in the bar!
 
 undecided-loadout-category-town-Bartenders-name = Bartenders kit
 undecided-loadout-category-town-Bartenders-description =
     Even if the world ends. People want a good drink.
     Includes More drinks for the bar, double barreled shotgun,
-    4 spare shells and a hand labeler.
+    4 spare shells and a hand labeler
+    Open in the bar!
 
 #Vault
 
