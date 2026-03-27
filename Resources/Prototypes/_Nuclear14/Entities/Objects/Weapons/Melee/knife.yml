@@ -196,18 +196,3 @@
     sprite: _Nuclear14/Objects/Weapons/Melee/brass_knife.rsi
   - type: StaticPrice
     price: 20
-
-- type: entity
-  name: Shiv
-  parent: N14KitchenKnife
-  id: N14Shiv
-  description: A crude weapon fashioned from a piece of cloth and a glass shard.
-  components:
-  - type: Sprite
-    sprite: Objects/Weapons/Melee/shiv.rsi
-    size: 2
-    state: icon
-  - type: Item
-    sprite: Objects/Weapons/Melee/shiv.rsi
-  - type: StaticPrice
-    price: 20
